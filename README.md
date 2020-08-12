@@ -1,16 +1,21 @@
-### Hi there 👋
+**Hi there** 👋🏻
 
-<!--
-**wisnuanggara/wisnuanggara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm an extremely passionate iOS Developer
 
-Here are some ideas to get you started:
+## About Me 😁
+* 📱 iOS Developer / Freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📖 Open Source Contributor
+
+* 💻 One line of code at a time
+
+* ♥️ Exploring new places
+
+* ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@wisnuanggara05)
+
+
+
+
+## Reach me via 👇🏻
+
+[![Instagram](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/insta.png)](https://www.instagram.com/wisnuuanggaraa/) [![Linkedin](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/linkedin.png)](https://www.linkedin.com/in/wisnu-anggara-1677b6121/)
