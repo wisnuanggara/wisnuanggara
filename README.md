@@ -1,9 +1,8 @@
 **Hi there** 👋🏻
 
-# I'm an extremely passionate iOS Developer
-
+# I'm an extremely passionate Machine Learning Engineer
 ## About Me 😁
-* 📱 iOS Developer / Freelancer
+* 📱 Machine Learning / AI
 
 * 📖 Open Source Contributor
 
