@@ -10,7 +10,7 @@
 
 * ♥️ Exploring new places
 
-* ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@wisnuanggara05)
+* ✍🏻 I write blogs on Machine Learning Article in [Medium](https://medium.com/@wisnuanggara05)
 
 
 
