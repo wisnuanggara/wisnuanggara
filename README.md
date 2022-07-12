@@ -13,8 +13,3 @@
 * ✍🏻 I write blogs on Machine Learning Article in [Medium](https://medium.com/@wisnuanggara05)
 
 
-
-
-## Reach me via 👇🏻
-
-[![Instagram](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/insta.png)](https://www.instagram.com/wisnuuanggaraa/) [![Linkedin](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/linkedin.png)](https://www.linkedin.com/in/wisnu-anggara-1677b6121/)
